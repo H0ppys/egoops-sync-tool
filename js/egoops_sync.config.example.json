@@ -1,0 +1,18 @@
+﻿{
+  "apiBase": "<FILL_EGOOPS_API_BASE>",
+  "tokenFile": "egoops_token.json",
+  "edgeExtractScript": "extract_oidc2.py",
+  "larkBin": "<FILL_LARK_CLI_PATH>",
+  "baseToken": "<FILL_BASE_TOKEN>",
+  "tableId": "<FILL_TABLE_ID>",
+  "pageSize": 20,
+  "concurrency": 4,
+  "batchSize": 100,
+  "filters": {
+    "qc_status": "",
+    "task_id": "",
+    "collector_id": "",
+    "project_id": ""
+  },
+  "logFile": "egoops_sync.log"
+}

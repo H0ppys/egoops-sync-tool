@@ -1,0 +1,2 @@
+﻿# 纯标准库实现（HTTP 用 urllib，界面用 tkinter）
+# 运行时 Python >= 3.10
